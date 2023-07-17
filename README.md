@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/saitabaudennis" target="blank"><img src="https://img.shields.io/twitter/follow/saitabaudennis?logo=twitter&style=for-the-badge" alt="saitabaudennis" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript, CSS, react, python,node js, and spring**
+- 🌱 I’m currently learning **JavaScript, CSS, react, python,node js, spring**
 
 - 💬 Ask me about **HTML,Java,C++,C**
 
@@ -17,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/saitabaudennis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saitabaudennis" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/saitabau dennis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saitabau dennis" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/saitabau-dennis-115133280?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7g6oZTtUT7C7hp7ArZvPpw%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saitabau dennis" height="30" width="40" /></a>
 <a href="https://instagram.com/saitabau_dennis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saitabau_dennis" height="30" width="40" /></a>
 </p>
 
