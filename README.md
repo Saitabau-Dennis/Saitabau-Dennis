@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/saitabaudennis" target="blank"><img src="https://img.shields.io/twitter/follow/saitabaudennis?logo=twitter&style=for-the-badge" alt="saitabaudennis" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript, CSS, react, python,node js, spring**
+- 🌱 I’m currently learning **JavaScript, CSS, react, python, node js, spring**
 
 - 💬 Ask me about **HTML,Java,C++,C**
 
