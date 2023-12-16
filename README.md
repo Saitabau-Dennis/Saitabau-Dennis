@@ -1,7 +1,7 @@
 # 💫 About Me:
 🌱 I’m currently learning **JavaScript, CSS, react, python, node js, spring**<br>💬 Ask me about **HTML,Java,C++,C**<br>📫 How to reach me **dennisntete28@gmail.com**<br>⚡ Fun fact **I think I am funny.**
 
-
+[![](https://visitcount.itsvg.in/api?id=Saitabau-Dennis&icon=7&color=7)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saitabau__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/saitabau-dennis-115133280) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Saita__28) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@SaitabauDennis) 
 
