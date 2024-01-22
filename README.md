@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning **JavaScript, CSS, react, python, node js, spring**<br>💬 Ask me about **HTML,Java,C++,C**<br>📫 How to reach me **dennisntete28@gmail.com**<br>⚡ Fun fact **I think I am funny.**
+🌱 I’m currently learning **JavaScript, CSS, react, python, node js, spring**<br>💬 Ask me about **HTML, Java, C++, C**<br>📫 How to reach me **dennisntete28@gmail.com**<br>⚡ Fun fact **I think I am funny.**
 
 [![](https://visitcount.itsvg.in/api?id=Saitabau-Dennis&icon=7&color=7)](https://visitcount.itsvg.in)
 ## 🌐 Socials:
@@ -12,17 +12,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Saitabau-Dennis&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saitabau-Dennis&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Saitabau-Dennis&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Saitabau-Dennis&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Saitabau-Dennis&icon=7&color=7)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/dennisntetb) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
