@@ -1,5 +1,18 @@
 
 <h1 align="center">Hi 👋, I'm Saitabau Dennis</h1>
+  <div id="badges">
+  <a href="(https://www.linkedin.com/in/saitabau-dennis-115133280/)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white,ho" alt="LinkedIn Badge"/>
+  </a>
+<!--   <a href="https://www.youtube.com/channel/UCoO82bia4WfA19iLEVUX2iw">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a> -->
+  <a href="https://twitter.com/isthat_saita/">
+    <img src="https://img.shields.io/badge/Twitter-green?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+ <img src="https://komarev.com/ghpvc/?username=Saitabau-Dennis&style=flat-square&color=blue" alt=""/>
+</div>
 <h3 align="center">A passionate full stack developer from kenya</h3>
 
 - 🌱 I’m currently learning **Javascript,Pyhton,Reactjs**
