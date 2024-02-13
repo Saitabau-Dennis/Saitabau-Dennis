@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Saitabau Dennis</h1>
-  <div id="badges">
+  <div align="center" id="badges">
   <a href="(https://www.linkedin.com/in/saitabau-dennis-115133280/)">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white,ho" alt="LinkedIn Badge"/>
   </a>
