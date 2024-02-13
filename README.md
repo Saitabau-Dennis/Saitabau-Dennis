@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Saitabau Dennis</h1>
   <div align="center" id="badges">
-  <a href="(https://www.linkedin.com/in/saitabau-dennis-115133280/)">
+  <a href="https://www.linkedin.com/in/saitabau-dennis-115133280/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white,ho" alt="LinkedIn Badge"/>
   </a>
 <!--   <a href="https://www.youtube.com/channel/UCoO82bia4WfA19iLEVUX2iw">
