@@ -1,5 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Saitabau Dennis</h1>
+
+
   <div align="center" id="badges">
   <a href="https://www.linkedin.com/in/saitabau-dennis-115133280/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white,ho" alt="LinkedIn Badge"/>
@@ -12,6 +14,7 @@
   </a>
 </div>
 <div align="center">
+  <a href="https://wakatime.com/@018e4118-cae8-4654-94e2-6123b764cc11"><img src="https://wakatime.com/badge/user/018e4118-cae8-4654-94e2-6123b764cc11.svg" alt="Total time coded since Mar 15 2024" /></a>
  <img src="https://komarev.com/ghpvc/?username=Saitabau-Dennis&style=flat-square&color=blue" alt=""/>
 </div>
 <h3 align="center">A passionate full stack developer from kenya</h3>
