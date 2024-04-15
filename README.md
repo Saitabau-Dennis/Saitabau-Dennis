@@ -32,9 +32,9 @@
   
 ### GitHub Analytics
  
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=Saitabau-Dennis&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=Saitabau-Dennis&theme=react" />
-<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=Saitabau-Dennis&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saitabau-Dennis&layout=compact&langs_count=7&theme=dracula"/>
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=Saitabau-Dennis&count_private=true&show_icons=true&theme=tokyonight" />  <img width="425" src="https://streak-stats.demolab.com/?user=Saitabau-Dennis&theme=tokyonight" />
+<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=Saitabau-Dennis&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&area=true&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saitabau-Dennis&layout=compact&langs_count=7&theme=tokyonight"/>
 
 
   
