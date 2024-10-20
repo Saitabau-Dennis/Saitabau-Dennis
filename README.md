@@ -4,7 +4,7 @@
 Saitabau Dennis := developer{
     about: about{
         name: "Saitabau Dennis",
-        role: "Backend Dev",
+        role: "Fullstack Dev",
     },
 }
 
