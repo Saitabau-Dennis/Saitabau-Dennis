@@ -1,6 +1,6 @@
 Hey, I’m Dennis 👋
 
-I’m a developer who loves understanding how things work breaking them, learning from the process, and turning ideas into solid software.
+I’m a developer who loves understanding how things work, breaking them, learning from the process, and turning ideas into solid software.
 
 I build and ship practical solutions that solve real-world problems.
 
